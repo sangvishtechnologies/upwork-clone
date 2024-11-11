@@ -6,6 +6,9 @@ Market research indicates that the overall size of the gig economy for the world
 
 Having an [Upwork clone](https://sangvish.com/upwork-clone/) thus enables an individual or company to create their own freelancing site and establish a large market within this growing sector. In this blog, you will get to know how the Upwork clone script to grab this highly lucrative market sector.
 
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“upworkclonescript.png" src="https://github.com/sangvishtechnologies/upwork-clone/blob/main/images/upwork-clone-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>  
+
+
 ## Why Choose an Upwork Clone Script?
 [Upwork clone script](https://sangvish.com/upwork-clone/) is a freelanching software solution that offers a platform to create a website similar like Upwork without having to start from scratch. It includes all the necessary tools, necessary to manage the perfect freelancing marketplace platform successfully. Here’s why using an Upwork clone is a smart choice:
 
@@ -55,6 +58,9 @@ Provide paid associations for freelancers and clients that would have options an
 Let freelancers promote their services by using only premium slots available for purchase on the website.
 * **Advertising**
 Increase additional income by providing advertisement space to firms that need to market their services.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“upworkclone.png" src="https://github.com/sangvishtechnologies/upwork-clone/blob/main/images/upwork-clone.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>  
+
 
 ## Conclusion: The Future of the Gig Economy Awaits You
 With this trend, the gig economy is expected to remain on the rise in the near future, offering massive business prospects. Choosing a dedicated Upwork clone script is the best way to start within the market and offer big clients, a feature-packed platform with reasonable prices and ecoordinal scalability. If you are interested in freelancing platform business that aims at working with freelancers from all over the world or maybe targeting a particular niche, then Upwork clone can supply you with all the necessary tools for creating systematically developing platform.
